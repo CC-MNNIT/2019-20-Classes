@@ -20,10 +20,12 @@
 
 - [Java TPoint](https://www.javatpoint.com/): Great online resource for learning Java concepts.
 
+- [Bucky Roberts Video Series](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28ZZ): Great youtube playlist to learn java in a fun manner.
+
 
 ## Java Basics and Useful Links
 
-- Java is an object oriented, class-based, concurrent, secured
+- Java is an object oriented, class-based, concurrent, secured programming language.
 
 - Initiators:
  	James Gosling, Mike Sheridan, and Patrick Naughton
@@ -39,36 +41,38 @@
     8. [Platform  independent](https://www.geeksforgeeks.org/java-platform-independent/)
     
 
-- COMPILATION:
-	- set path=C:\Program Files\Java\jdk1.6.0_23\bin
+- Command to set temporary path in cmd
+	- set path=C:\Program Files\Java\<jdk_folder_name>\bin
 
-- Compile time
-	- javac fileName.java
-	- Class -> Compiler -> Bytecode
+- Compilation:
+	- Compile time
+		- javac fileName.java
+		- Class -> Compiler -> Bytecode
 
-- Runtime
-	- .classfile -> classloader -> bytecode verifier ->interpreter -> runtime -> hardware
+	- Runtime
+		- java fileName
+		- classfile -> classloader -> bytecode verifier -> interpreter -> runtime -> hardware
 
--JDK
+- JDK
 	- Compiler(javac), tools(javap, java) + JRE
 
 - JRE
-	- JVM + runtime environment
+	- JVM + Euntime Environment
 	- Provide set of software tools which are used for developing Java applications.
 	- It is used to provide the runtime environment.
 	- JRE implements JVM.
-	- implementation of jvm therefore is also released by different other companies (openjdk, oraclejdk)
+	- Since JRE is implementation of jvm therefore is also released by different other companies (openjdk, oraclejdk)
 
 - JVM
-	- can run anything compiled to bytecode. it is a vm.
-	- jvm is system dependent.
+	- Can run anything compiled to bytecode. It is a virtual machine.
+	- JVM is system dependent.
 	- Functions of JVM
 		Loads code
 		Verifies code
 		Executes code
 		Provides runtime environment
 	
-		therefore convert and run single line of bytecode.
+		therefore used to convert and run bytecode line by line.
 		bytecode -> machine code -> run that line
 	- [ How JVM Works](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/)
 	- [ JDK vs JRE vs JVM ](https://www.geeksforgeeks.org/differences-jdk-jre-jvm/)
@@ -76,18 +80,11 @@
 - JIT
 	- line by line, hence --> performance problem -- (solution needed) --> jit
 	- Hepls java interpreter to run and execute code faster
-	- refer this [link](https://www.geeksforgeeks.org/just-in-time-compiler/)
+	- Refer this [link](https://www.geeksforgeeks.org/just-in-time-compiler/)
+	- Two observations firstly of repeated code segments, secondly wrongly written code.
 
 - Classes and Objects
-	- refer the [ppt](Java_Class_1.pptx) for all the theory and examples
+	- Refer the [ppt](Java_Class_1.pptx) for all the theory and examples
 	- [this reference in Java](https://www.geeksforgeeks.org/this-reference-in-java/)
 	- [instance vs static methods in java](https://www.geeksforgeeks.org/static-methods-vs-instance-methods-java/)
-	- refer [this code](Shirt.java) for basic syntax and [this code](Dog.java) for Mutator Example
-
-
-
-
-
-
-
-
+	- Refer [this code](Shirt.java) for basic syntax and [this code](Dog.java) for Mutator Example
