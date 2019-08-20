@@ -33,6 +33,8 @@ Join our fb group for classes schedule and other details.
 
 - Placements
 	- [Guide to Placements](Placements)
+- Java
+	- [Java Class - 1](Java/2019_08_20_Java-Class-1)
 
 ## Announcements
 
