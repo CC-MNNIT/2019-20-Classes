@@ -20,12 +20,12 @@
 - [Java TPoint](https://www.javatpoint.com/): Great online resource for learning Java concepts.
 
 
-##Java Basics and Useful Links
+## Java Basics and Useful Links
 
 - Java is an object oriented, class-based, concurrent, secured
 
 - Initiators:
- James Gosling, Mike Sheridan, and Patrick Naughton
+ 	James Gosling, Mike Sheridan, and Patrick Naughton
 
 - Features of java:
     1. Write once run anywhere
@@ -39,8 +39,7 @@
     
 
 - COMPILATION:
-
-set path=C:\Program Files\Java\jdk1.6.0_23\bin
+	- set path=C:\Program Files\Java\jdk1.6.0_23\bin
 
 - Compile time
 	- javac fileName.java
@@ -50,11 +49,9 @@ set path=C:\Program Files\Java\jdk1.6.0_23\bin
 	- .classfile -> classloader -> bytecode verifier ->interpreter -> runtime -> hardware
 
 -JDK
-
 	- Compiler(javac), tools(javap, java) + JRE
 
 - JRE
-
 	- JVM + runtime environment
 	- Provide set of software tools which are used for developing Java applications.
 	- It is used to provide the runtime environment.
@@ -62,7 +59,6 @@ set path=C:\Program Files\Java\jdk1.6.0_23\bin
 	- implementation of jvm therefore is also released by different other companies (openjdk, oraclejdk)
 
 - JVM
-
 	- can run anything compiled to bytecode. it is a vm.
 	- jvm is system dependent.
 	- Functions of JVM
@@ -77,9 +73,9 @@ set path=C:\Program Files\Java\jdk1.6.0_23\bin
 	- [ JDK vs JRE vs JVM ](https://www.geeksforgeeks.org/differences-jdk-jre-jvm/)
 
 - JIT
-
 	- line by line, hence --> performance problem -- (solution needed) --> jit
 	- Hepls java interpreter to run and execute code faster
+	- refer this [link](https://www.geeksforgeeks.org/just-in-time-compiler/)
 
 - Classes and Objects
 	- refer the [ppt](Java_Class_1.pptx) for all the theory and examples
