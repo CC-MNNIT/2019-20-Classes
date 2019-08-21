@@ -6,6 +6,14 @@
 - [Installing Bootstrap Files](https://tinyurl.com/bootstrapWS2019)
 
 
+## Webster Class Codes
+
+- [Codes of Class 1](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/WebDev/Webster_Class1_21_08_2019)
+
+## Webster Class Assignment
+- [Assignment for Class 1](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/WebDev/Webster_Class1_21_08_2019/Assignments)
+
+
 ## Resources
 
 - [HTML Resource](https://www.w3schools.com/html/default.asp): One of the best References of HTML for beginners.

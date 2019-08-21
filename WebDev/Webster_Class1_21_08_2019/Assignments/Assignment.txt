@@ -1,0 +1,11 @@
+
+Task 1: You have to design a form using html, css and bootstrap (a sample form image is given in the below mentioned link). Use any frameworks and libraries you want but make sure it is light. Keep it simple, creative and beautiful. 
+
+
+
+
+Task 2: Your next task is to make the webpage similar to the picture with the name shapes.jpg in the link using html and css.
+
+ We expect you to think of a design and code it up with help of HTML CSS. You are free to choose your own color scheme and fonts. Make sure the form and shapes you make is responsive.
+
+Hint for the second task: Read out more about positioning, borders, opacity, z-index !!
