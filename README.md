@@ -35,6 +35,8 @@ Join our fb group for classes schedule and other details.
 	- [Guide to Placements](Placements)
 - Java
 	- [Java Class - 1](Java/2019_08_20_Java-Class-1)
+- Web Development
+    - [Webster Class - 1](WebDev/Webster_Class1_21_08_2019)
 
 ## Announcements
 
@@ -49,6 +51,7 @@ Follow the [contribution guide](https://github.com/CC-MNNIT/2019-20-Classes/blob
 * [Abhishek Kumar Singh](https://github.com/Abhishek1103)
 * [Surbhit Awasthi](https://github.com/surbhitawasthi)
 * [Kartik Mahendru](https://github.com/kartikMahendru)
+* [Milan Bavishi](https://github.com/jarvisdev)
 
 ## Contact
 
