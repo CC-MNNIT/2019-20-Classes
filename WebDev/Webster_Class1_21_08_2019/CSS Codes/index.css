@@ -1,0 +1,219 @@
+.div1 {
+    height: 300px;
+    width: 600px;
+    /* max-width: 500px; */
+    background-color: orange;
+    border-style: solid dotted dashed none;
+    border-width: 25px 12px 17px 4px; 
+    padding: 20px;
+    margin: 25px 50px 75px 100px;
+
+    /* top right bottom left */
+}
+/* 
+------------------------------------------ MARGINS ----------------------------------------------------
+The auto Value
+You can set the margin property to auto to horizontally center the element within its container.
+The element will then take up the specified width, and the remaining space will be split equally between the left and right margins. 
+
+
+Margin Collapse
+Top and bottom margins of elements are sometimes collapsed into a single margin that is equal to the largest of the two margins.
+This does not happen on left and right margins! Only top and bottom margins!
+
+
+--------------------------------------------------------------------------------------------------------- */
+/* ----------------------------border styles ---------------------------------------------------------
+dotted - Defines a dotted border
+dashed - Defines a dashed border
+solid - Defines a solid border
+double - Defines a double border
+groove - Defines a 3D grooved border. The effect depends on the border-color value
+ridge - Defines a 3D ridged border. The effect depends on the border-color value
+inset - Defines a 3D inset border. The effect depends on the border-color value
+outset - Defines a 3D outset border. The effect depends on the border-color value
+none - Defines no border
+hidden - Defines a hidden border 
+-------------------------------------------------------------------*/
+
+
+
+
+
+/* --------------- Background ---------------------------------------------------------------- */
+
+/* body {
+    background: #ffffff url("tree.jpg") no-repeat right top fixed;
+} */
+
+/* When using the shorthand property the order of the property values is:
+
+background-color
+background-image
+background-repeat
+background-attachment
+background-position */
+
+
+/* background position 
+
+left top
+left center
+left bottom
+right top
+right center
+right bottom
+center top
+center center
+center bottom
+
+x% y%
+xpos ypos in px 
+
+----------------------------------------------------------------- */
+
+
+
+
+
+/* -------------------------------------------TEXT CSS----------------------------------- */
+p.p1 {
+    color: blue;
+    letter-spacing: 3px;
+    text-align: center;
+    text-decoration: line-through;
+    text-transform: lowercase;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 2.2em; /* 1em = 16px */
+    font-style: italic;
+}
+
+div.div2 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+} 
+
+div.div2:hover {
+    overflow: visible;
+}
+
+/* color :	Sets the color of text
+direction :	Specifies the text direction/writing direction
+letter-spacing : Increases or decreases the space between characters in a text
+line-height :	Sets the line height
+text-align : Specifies the horizontal alignment of text
+text-decoration :	Specifies the decoration added to text
+text-indent	: Specifies the indentation of the first line in a text-block
+text-shadow	: Specifies the shadow effect added to text
+text-transform	: Controls the capitalization of text
+text-overflow: Specifies how overflowed content that is not displayed should be signaled to the user
+word-spacing	Increases or decreases the space between words in a text */
+
+
+
+
+
+
+/* -------------------------------------------LINK CSS----------------------------------- */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+
+
+/* --------------------------------- DISPLAY PROPERTY --------------------- */
+p.p1 {
+    display: block;
+}
+/* display inline , block , inline-block */
+/* visibility: hidden  retains the space
+display: none doesn't retain the space */
+
+
+
+div.div-absolute-parent {
+    border: 5px solid green;
+    display: block;
+    width: 200px;
+    height: 300px;
+}
+
+div.div-static {
+    border: 5px solid red;
+    display: inline;
+    position: static;
+    left: 300px;
+    bottom: 40px;
+}
+
+div.div-relative {
+    border: 5px solid red;
+    display: inline;
+    position: relative;
+    left: 300px;
+    top: 40px;
+}
+
+div.div-fixed {
+    border: 5px solid red;
+    display: inline;
+    position: fixed;
+    left: 400px;
+    top: 400px;
+}
+
+div.div-absolute {
+    border: 5px solid red;
+    display: inline;
+    position: absolute;
+    left: 30px;
+    top: 80px;
+}
+
+
+
+/* --------------------------------------------------------CSS overflow------------------------------------------------------------ */
+div.div3 {
+    width: 400px;
+    height: 250px;
+    background-color: orange;
+    overflow: hidden;
+    /* text-overflow: ellipsis;
+    white-space: nowrap; */
+}
+
+
+/* -------------------------------------------------------------CSS whitespace--------------------------------------------------- */
+div.div4 {
+    width: 500px;
+    border: 3px solid red 
+}
+
+p.white-a {
+  white-space: nowrap;
+}
+
+p.white-b {
+  white-space: normal;
+}
+
+p.white-c {
+  white-space: pre;
+}

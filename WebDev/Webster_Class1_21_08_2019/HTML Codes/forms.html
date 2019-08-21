@@ -1,0 +1,41 @@
+<form>
+  First name:<br>
+  <input type="text" name="firstname" maxlength="20"><br><br><br>
+  Last name:<br>
+  <input type="text" name="lastname"><br><br><br>
+  <input type="radio" name="gender" value="male" checked> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="radio" name="gender" value="other"> Other<br><br><br>
+
+  <select name="cars">
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="fiat">Fiat</option>
+  <option value="audi">Audi</option>
+  </select>
+  <br><br><br>
+  <select name="cars" multiple>
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="fiat">Fiat</option>
+  <option value="audi">Audi</option>
+  <option value="audi">Ferrari</option>
+  <option value="audi">City</option>
+  <option value="audi">Hyundai</option>
+  </select><br><br>
+  User password:<br>
+  <input type="password" name="psw" required><br><br><br>
+  <textarea name="message" style="width:200px; height:200px;">
+	Any suggestions
+  </textarea><br><br><br>
+  Birthday (date and time):
+  <input type="datetime-local" name="bdaytime"><br><br><br>
+  E-mail:
+  <input type="email" name="email"><br><br><br>
+  Select a file: <input type="file" name="myFile"><br><br><br>
+  Quantity:
+  <input type="number" name="points" min="0" max="100" step="10" value="30"><br><br><br>
+  Disabled attribute:<br>
+  <input type="text" name="firstname" value="John" disabled><br><br>
+    <input type="submit" value="Submit"><br>
+</form>
