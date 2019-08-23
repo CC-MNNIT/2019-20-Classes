@@ -8,7 +8,7 @@
 
 ## Webster Class Codes
 
-- [Codes of Class 1](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/WebDev/Webster_Class1_21_08_2019)
+- [Codes of Class 1](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/WebDev/2019_08_21_Webster-Class-1)
 
 ## Webster Class Assignment
 - [Assignment for Class 1](https://drive.google.com/file/d/1_SxXhMogELcKtv_b9zWKsoqYJ-oHMM2c/view?usp=sharing)

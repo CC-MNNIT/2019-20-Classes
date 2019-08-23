@@ -36,7 +36,7 @@ Join our fb group for classes schedule and other details.
 - Java
 	- [Java Class - 1](Java/2019_08_20_Java-Class-1)
 - Web Development
-    - [Webster Class - 1](WebDev/Webster_Class1_21_08_2019)
+    - [Webster Class - 1](WebDev/2019_08_21_Webster-Class-1)
 
 ## Announcements
 
