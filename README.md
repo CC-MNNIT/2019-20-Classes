@@ -35,6 +35,9 @@ Join our fb group for classes schedule and other details.
 	- [Guide to Placements](Placements)
 - Java
 	- [Java Class - 1](Java/2019_08_20_Java-Class-1)
+    - [Java Class - 2](Java/2019_08_23_Java-Class-2)
+- Linux
+    - [Basic Configurations](Linux/basic_instructions.md)
 - Web Development
     - [Webster Class - 1](WebDev/2019_08_21_Webster-Class-1)
 
