@@ -8,6 +8,8 @@
 
 - [Java Runtime Polymorphism](https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/)
 
+- [Classroom PPT](java_class_2.pdf)
+
 - [Classroom Code](code_examples.pdf)
 
 - [Classroom Code Files](https://github.com/Abhishek1103/2019-20-Classes/tree/master/Java/2019_08_23_Java-Class-2/source_code)
