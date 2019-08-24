@@ -1,5 +1,7 @@
 # Resources
 
+- [Introduction To Encapsulation](https://medium.com/s/javaforhumans_1509490998109/java-for-humans-encapsulation-access-modifiers-a1ee247acb5e)
+
 - [Introduction To Inheritance](https://hackernoon.com/java-for-humans-class-inheritance-d82a357b2659)
 
 - [Java Overriding](https://www.geeksforgeeks.org/overriding-in-java/)
