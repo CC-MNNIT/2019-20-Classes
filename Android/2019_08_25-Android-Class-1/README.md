@@ -1,4 +1,4 @@
-## Class - 1 -> Installation ,Activity Cycle and Views
+## Class - 1 -> Installation ,Activity Cycle, Views, develop a basic app
 
 ## Initial Setup Instructions
 
@@ -46,9 +46,7 @@ refer [this ppt](android_intro.pptx) for an overview of points covered in the cl
 
 - [Basic application example using button listener and intent](FirstClassAndroid)
 
-- [apk for first app](FirstAndroidClass app-debug.apk) and [apk for second app](FirstClassAndroid app-debug.apk)
-
-- download apk files and run them in your mobiles phones.
+- download apk files given above and run them in your mobiles phones.
 
 
 ## Task

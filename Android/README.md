@@ -1,6 +1,7 @@
 # Android-MNNIT
 
-##Leaning Resources
+Refer this readme for important links related to DroidRush 2019
+## LeaRning Resources
 
 - [developers android](https://developer.android.com/guide)
 
