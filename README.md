@@ -41,6 +41,7 @@ Join our fb group for classes schedule and other details.
     - [Guidelines for Proxy Configurations](Linux/basic_proxy_instructions.md)
 - Web Development
     - [Webster Class - 1](WebDev/2019_08_21_Webster-Class-1)
+    - [Webster Class - 2](WebDev/2019_08_24_Webster-Class-2)
 - Competitive Coding
   - [CP Class - 1 & 2](Competitive_Coding/2019_08_24_CP-Class-1&2)
 
