@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JQuery Class</title>
+	<script src="jquery.js"></script>
+
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
+
+</head>
+<body>
+
+
+<!-- Hide components -->
+<!-- <script>
+$(document).ready(function(){
+  $("p").click(function(){
+    $(this).hide();
+  });
+});
+</script>
+</head>
+<body>
+
+<p>If you click on me, I will disappear.</p>
+<p>Click me away!</p>
+<p>Click me too!</p>
+ -->
+
+
+
+
+
+<!-- Basic syntax is: $(selector).action() -->
+
+
+
+
+
+<!-- Element selector -->
+<!-- 
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("p").hide();
+  });
+});
+</script>
+</head>
+<body>
+
+<h2>This is a heading</h2>
+
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+<button>Click me to hide paragraphs</button>
+ -->
+
+
+
+
+
+<!-- id selector -->
+<!-- 
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("#test").hide();
+  });
+});
+</script>
+</head>
+<body>
+
+<h2>This is a heading</h2>
+
+<p>This is a paragraph.</p>
+<p id="test">This is another paragraph.</p>
+
+<button>Click me</button>
+ -->
+
+
+
+
+<!-- class selector -->
+<!-- 
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $(".test").hide();
+  });
+});
+</script>
+</head>
+<body>
+
+<h2 class="test">This is a heading</h2>
+
+<p class="test">This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+<button>Click me</button>
+ -->
+
+
+
+
+
+
+<!-- Events in JQuery -->
+<!-- 
+<pre>
+<h3>Mouse Events</h3>
+
+click
+dblclick
+mouseenter
+mouseleave
+
+<h3>Keyboard Events	</h3>
+keypress
+keydown
+keyup
+
+<h3>Form Events	</h3>
+submit
+change
+focus
+blur
+
+<h3>Document/Window Events</h3>
+load
+resize
+scroll
+unload
+
+</pre>
+ -->
+
+
+
+
+
+<!-- double click example -->
+<!-- 
+<script>
+$(document).ready(function(){
+  $("p").dblclick(function(){
+    $(this).hide();
+  });
+});
+</script>
+</head>
+<body>
+
+<p>If you double-click on me, I will disappear.</p>
+<p>Click me away!</p>
+<p>Click me too!</p>
+ -->
+
+
+
+
+
+
+<!-- hover example -->
+<!-- 
+<script>
+$(document).ready(function(){
+  $("#p1").hover(function(){
+    alert("You entered p1!");
+  },
+  function(){
+    alert("Bye! You now leave p1!");
+  }); 
+});
+</script>
+</head>
+<body>
+
+<p id="p1">This is a paragraph.</p>
+ -->
+
+
+
+
+
+
+
+
+<!-- Hide/show example -->
+<!-- 
+<script>
+$(document).ready(function(){
+  $("#hide").click(function(){
+    $("p").hide();
+  });
+  $("#show").click(function(){
+    $("p").show();
+  });
+});
+</script>
+</head>
+<body>
+
+<p>If you click on the "Hide" button, I will disappear.</p>
+
+<button id="hide">Hide</button>
+<button id="show">Show</button>
+ -->
+
+
+
+
+
+
+
+<!-- Toggle example -->
+<!-- 
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("p").toggle();
+  });
+});
+</script>
+</head>
+<body>
+
+<button>Toggle between hiding and showing the paragraphs</button>
+
+<p>This is a paragraph with little content.</p>
+<p>This is another small paragraph.</p>
+ -->
+
+
+
+
+
+
+
+
+<!-- Fade in/out -->
+
+<!-- 
+	Syntax:
+	$(selector).fadeIn(speed,callback); 
+-->
+
+
+
+
+
+
+<!-- <script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("#div1").fadeToggle();
+    $("#div2").fadeToggle("slow");
+    $("#div3").fadeToggle(3000);
+  });
+});
+</script>
+</head>
+<body>
+
+<p>Demonstrate fadeToggle() with different speed parameters.</p>
+
+<button>Click to fade in/out boxes</button><br><br>
+
+<div id="div1" style="width:80px;height:80px;background-color:red;"></div>
+<br>
+<div id="div2" style="width:80px;height:80px;background-color:green;"></div>
+<br>
+<div id="div3" style="width:80px;height:80px;background-color:blue;"></div>
+ -->
+<!-- 
+Other Fade examples:
+
+fadeIn
+fadeOut
+fadeToggle
+fadeTo 
+-->
+
+
+
+
+
+<!-- 
+Sliding Examples
+slideIn
+slideOut
+slideToggle
+
+Syntax: $(selector).slideUp(speed,callback); 
+-->
+
+
+
+
+
+
+<!-- Animate -->
+<!--  
+examples 1:
+<script> 
+$(document).ready(function(){
+  $("button").click(function(){
+    $("div").animate({left: '250px'});
+  });
+});
+</script> 
+</head>
+<body>
+
+<button>Start Animation</button>
+
+<div style="background:#98bf21;height:100px;width:100px;position:absolute;"></div> 
+
+ -->
+
+
+
+ <!-- 
+example 2:
+<script> 
+$(document).ready(function(){
+  $("button").click(function(){
+    $("div").animate({
+      left: '250px',
+      height: '+=150px',
+      width: '+=150px'
+    });
+  });
+});
+</script> 
+</head>
+<body>
+
+<button>Start Animation</button>
+
+
+<div style="background:#98bf21;height:100px;width:100px;position:absolute;"></div>
+ -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- JQuery Stop method -->
+
+<!-- Syntax: $(selector).stop(stopAll,goToEnd); -->
+
+<!-- <script> 
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideDown(5000);
+  });
+  $("#stop").click(function(){
+    $("#panel").stop();
+  });
+});
+</script>
+<style> 
+#panel, #flip {
+  padding: 5px;
+  font-size: 18px;
+  text-align: center;
+  background-color: #555;
+  color: white;
+  border: solid 1px #666;
+  border-radius: 3px;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+}
+</style>
+
+<button id="stop">Stop sliding</button>
+
+<div id="flip">Click to slide down panel</div>
+<div id="panel">Hello world!</div>
+ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+Callback
+syntax: $(selector).hide(speed,callback);
+ -->
+
+
+<!-- 
+With callback
+
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("p").hide("slow", function(){
+      alert("The paragraph is now hidden");
+    });
+  });
+});
+</script>
+</head>
+<body>
+
+<button>Hide</button>
+
+<p>This is a paragraph with little content.</p>
+ -->
+
+
+<!-- 
+Without callback
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("p").hide(1000);
+    alert("The paragraph is now hidden");
+  });
+});
+</script>
+</head>
+<body>
+
+<button>Hide</button>
+
+<p>This is a paragraph with little content.</p>
+ -->
+
+
+
+</body>
+</html>
