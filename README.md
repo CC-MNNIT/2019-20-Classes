@@ -31,6 +31,8 @@ Join our fb group for classes schedule and other details.
 
 ## Resources
 
+- Android 
+	- [Android class - 1](Android/2019_08_25-Android-Class-1)
 - Placements
 	- [Guide to Placements](Placements)
 - Java

@@ -13,3 +13,6 @@ Refer this readme for important links related to DroidRush 2019
 
 - [treehouse basics of android](https://www.youtube.com/watch?v=EOfCEhWq8sg)
 
+## Contributors
+
+* [Kartik Mahendru](https://github.com/kartikMahendru)
