@@ -24,10 +24,11 @@ int GCD(int a, int b) {
 // time complexity - O(n)
 ll power(ll a, ll b) {
     if(b == 0) return 1LL;
-    if(b % 2 == 0) return power(a, b/2)*power(a, b/2);
+    if(b % 2 == 0) return power(a, b/2) * power(a, b/2);
     return a*power(a, b/2)*power(a, b/2);
 }
 
+// recursive implementation of modular exponentiation, O(logn)
 ll power(ll a, ll b, ll mod) {
     if(b == 0) return 1LL;
     ll ans = power(a, b/2);
