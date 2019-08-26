@@ -31,15 +31,19 @@ Join our fb group for classes schedule and other details.
 
 ## Resources
 
+- Android 
+	- [Android class - 1](Android/2019_08_25-Android-Class-1)
 - Placements
 	- [Guide to Placements](Placements)
 - Java
 	- [Java Class - 1](Java/2019_08_20_Java-Class-1)
     - [Java Class - 2](Java/2019_08_23_Java-Class-2)
 - Linux
-    - [Basic Configurations](Linux/basic_instructions.md)
+    - [Basic Details About Linux](Linux/basic_linux_guidelines.pdf)
+    - [Guidelines for Proxy Configurations](Linux/basic_proxy_instructions.md)
 - Web Development
     - [Webster Class - 1](WebDev/2019_08_21_Webster-Class-1)
+    - [Webster Class - 2](WebDev/2019_08_24_Webster-Class-2)
 - Competitive Coding
   - [CP Class - 1 & 2](Competitive_Coding/2019_08_24_CP-Class-1&2)
 
