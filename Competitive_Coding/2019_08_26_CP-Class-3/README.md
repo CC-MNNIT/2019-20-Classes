@@ -1,7 +1,5 @@
 # Questions On GCD(Euclid's Algorithm), Modular properties, Fermat's little theorem, modular exponentiation
 
-* [Codechef BOSSLOSS - Boss and his Brother](https://www.hackerearth.com/challenge/competitive/code-monk-number-theory-i/problems/)
-
 * [Codechef FLOW016 - GCD and LCM](https://www.codechef.com/problems/FLOW016)
 
 * [Codechef GCDQ - GCD Queries](https://www.codechef.com/problems/GCDQ)
@@ -19,7 +17,7 @@
 
 * [Hackerearth - Calculate the Power](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/calculate-the-power/description/)
 
-* [Hackerearth - Unlock the Door(https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/name-count/description/)
+* [Hackerearth - Unlock the Door](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/name-count/description/)
 
 * [Codeforces - Beautiful Numbers](https://codeforces.com/problemset/problem/300/C)
 
