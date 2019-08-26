@@ -63,6 +63,8 @@ signed main() {
     /* Q. Given an array of n elements and all elements are initially zero.
         Process q queries where each query will ask you to add 1 from index l to r,
         After processing all such queries you have to print the entire array.
+        1 <= n <= 10^5
+        1 <= q <= 10^5
     */
     /*sol . For each query add +1 at index l and -1 at index r+1,
             after processing all such queries just take prefix sum of whole array
@@ -82,8 +84,34 @@ signed main() {
 
 
 
+    /*Q1. Count the number of pairs whose sum is equal to given k.
+       Const:-
+    1 <= n <= 100000
+    1 <= k <= 100000 */
+    int n, k;
+    cin >> n >> k;
+    ll ans = 0;
+    int freq[100005];
+    memset(freq, 0, sizeof freq);
+    for(int i=0; i < n; i++){
+        freq[arr[i]]++;
+    }
+    for(int i=0; i <= k; i++){
+        // for i==k-i
+        // Suppose, k=2 and arr={1,1,1} freq[1] is 3 and freq[2-1] is also three
+        // So we need to add freq[i]*(freq[k-i]-1) only
+        if(i == k-i)
+            ans += (ll)freq[i]*(freq[k-i]-1);
+        else
+            ans += (ll)freq[i]*freq[k-i];
+    }
+    ans = ans/2;
+    cout << ans << '\n';
+
+
+
     // prime number
-    int n = 31;
+    n = 31;
     cout << primeTest(n) << '\n';
 
 

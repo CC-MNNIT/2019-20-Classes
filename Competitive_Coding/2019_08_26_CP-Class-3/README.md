@@ -10,6 +10,7 @@
 
 * [Spoj LCMSUM - LCM Sum](https://www.spoj.com/problems/LCMSUM/)
 
+* [Hackerearth - Shantam and Richness](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/shantam-and-richness-1/)
 
 * [Hackerearth - Panda and Chain Reaction ](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/panda-and-chain-reaction/description/)
 
