@@ -1,6 +1,6 @@
 # Avishkar 2k19
 
-<div align="center"><img src="avishkar_logo_19.png" height="600" width="600"/></div>
+<div align="center"><img src="avishkar_logo_19.png" height="400" width="500"/></div>
 
 ## CyberQuest
 - [CyberQuest](https://www.facebook.com/cyberquest.avishkar/)
