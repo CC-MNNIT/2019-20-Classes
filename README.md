@@ -36,6 +36,7 @@ Join our fb group for classes schedule and other details.
 - Placements
 	- [Guide to Placements](Placements)
 - Java
+	- [SoftaBlitz Common Resources](Java/Softablitz)
 	- [Java Class - 1](Java/2019_08_20_Java-Class-1)
     - [Java Class - 2](Java/2019_08_23_Java-Class-2)
 - Linux
