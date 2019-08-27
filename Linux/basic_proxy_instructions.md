@@ -76,7 +76,7 @@ export http_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
 export https_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
 export ftp_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
 ```
-* To make this setting permanent add the above two lines in `~/.bashrc` file.
+* To make this setting permanent add the above lines in `~/.bashrc` file.
 
 ### Configuring git proxy
 To configure git proxy:
