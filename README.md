@@ -39,6 +39,7 @@ Join our fb group for classes schedule and other details.
 	- [SoftaBlitz Common Resources](Java/Softablitz)
 	- [Java Class - 1](Java/2019_08_20_Java-Class-1)
     - [Java Class - 2](Java/2019_08_23_Java-Class-2)
+    - [Java Class - 3](Java/2019_08_28_Java-Class-3)
 - Linux
     - [Basic Details About Linux](Linux/basic_linux_guidelines.pdf)
     - [Guidelines for Proxy Configurations](Linux/basic_proxy_instructions.md)
