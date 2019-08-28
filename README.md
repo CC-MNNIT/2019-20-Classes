@@ -36,17 +36,25 @@ Join our fb group for classes schedule and other details.
 - Placements
 	- [Guide to Placements](Placements)
 - Java
+	- [SoftaBlitz Common Resources](Java/Softablitz)
 	- [Java Class - 1](Java/2019_08_20_Java-Class-1)
     - [Java Class - 2](Java/2019_08_23_Java-Class-2)
 - Linux
     - [Basic Details About Linux](Linux/basic_linux_guidelines.pdf)
     - [Guidelines for Proxy Configurations](Linux/basic_proxy_instructions.md)
+    
+ - Machine Learning
+    - [Class - 1](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/Machine%20Learning/22-08-2019_Class1)
+    - [Class - 2](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/Machine%20Learning/27-08-2019_Class2)
+    
 - Web Development
     - [Webster Class - 1](WebDev/2019_08_21_Webster-Class-1)
     - [Webster Class - 2](WebDev/2019_08_24_Webster-Class-2)
 - Competitive Coding
   - [CP Class - 1 & 2](Competitive_Coding/2019_08_24_CP-Class-1&2)
   - [CP Class - 3](Competitive_Coding/2019_08_26_CP-Class-3)
+
+- [Avishkar](Avishkar/README.md)
 
 ## Announcements
 
