@@ -1,6 +1,6 @@
 # Questions On STL, Sorting, String(basic) and few Beginner level problems
 
-* [Codechef BOSSLOSS - Boss and his Brother](https://www.hackerearth.com/challenge/competitive/code-monk-number-theory-i/problems/)
+* [Codechef BOSSLOSS - Boss and his Brother](https://www.codechef.com/LOCJUL17/problems/BOSSLOSS)
 
 * [Codechef SMPAIR - The Smallest Pair](https://www.codechef.com/problems/SMPAIR)
 
