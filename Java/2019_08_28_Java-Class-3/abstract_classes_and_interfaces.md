@@ -380,7 +380,7 @@ In this article we have tried to explain when to use Abstract Classes and when t
 
 Interfaces and Abstract Classes are highly confusing concepts, So in case of any doubt feel free to reach any of the Softablitz coordinator.
 
-Raw file of all the codes in this article can be found [here](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/Java/2018_08_28_Java-Class-3).
+Raw file of all the codes in this article can be found [here](https://github.com/Abhishek1103/2019-20-Classes/tree/master/Java/2019_08_28_Java-Class-3/Codes).
 
 I hope by the above example you got the gist of interfaces. In case of any doubts, feel free to contact us. We are happy to help. :)
 
