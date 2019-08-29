@@ -17,4 +17,4 @@ Refer this readme for important links related to DroidRush 2019
 ## Contributors
 
 * [Kartik Mahendru](https://github.com/kartikMahendru)
-* [Aniket Kumar](https://github.com/aniket4686)
+* [Aniket Kumar](https://github.com/aniket468)
