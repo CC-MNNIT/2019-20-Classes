@@ -33,7 +33,7 @@ Join our fb group for classes schedule and other details.
 
 - Android 
 	- [Android class - 1](Android/2019_08_25-Android-Class-1)
-	- [Android class - 2](https://github.com/Aniket468/2019-20-Classes/tree/master/Android/2019_08_29-Android-Class-2)
+	- [Android class - 2](Android/2019_08_29-Android-Class-2)
 	
 - Competitive Coding
   - [CP Class - 1 & 2](Competitive_Coding/2019_08_24_CP-Class-1&2)
