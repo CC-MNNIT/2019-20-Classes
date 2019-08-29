@@ -3,7 +3,7 @@
 Refer this readme for important links related to DroidRush 2019
 ## Learning Resources
 
-- [TutorialsPoint] (https://www.tutorialspoint.com/android/index.htm)
+- [TutorialsPoint](https://www.tutorialspoint.com/android/index.htm)
 - [developers android](https://developer.android.com/guide)
 
 - [vogella android](https://www.vogella.com/tutorials/android.html)
