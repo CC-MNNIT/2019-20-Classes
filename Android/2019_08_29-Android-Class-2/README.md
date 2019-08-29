@@ -22,4 +22,8 @@
 ### RecyclerView
 - https://www.androidhive.info/2016/01/android-working-with-recycler-view/
 
+### CardView
+- https://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/
+- https://developer.android.com/reference/androidx/cardview/widget/CardView.html
+
 #### [ListView vs RecyclerView](https://stackoverflow.com/questions/26728651/recyclerview-vs-listview)
