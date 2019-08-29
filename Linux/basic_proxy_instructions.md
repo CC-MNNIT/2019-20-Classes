@@ -8,7 +8,7 @@ Proxy configuration for apt is written in the following file
 /etc/apt/apt.conf
 ```
 To configure apt proxy:
-*  Open terminal and open the above mentioned file iin any text-editor with _sudo _ . Eg.
+*  Open terminal and open the above mentioned file in any text-editor with _sudo_ . Eg.
 ```bash
 sudo gedit /etc/apt/apt.conf
 ```
@@ -82,5 +82,5 @@ export ftp_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
 To configure git proxy:
 ```
 git config --global http.proxy "http://edcguest:edcguest@172.31.102.29:3128/"
-git config --global http.proxy "http://edcguest:edcguest@172.31.102.29:3128/"
+git config --global https.proxy "http://edcguest:edcguest@172.31.102.29:3128/"
 ```
