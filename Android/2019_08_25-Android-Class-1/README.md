@@ -41,6 +41,7 @@ refer [this ppt](android_intro.pptx) for an overview of points covered in the cl
 ## Code and apk file
 
 - Code for the apps(Android life cycle example and Basic App example) has been uploaded along with their apk files. Download the code, and build it in android studio. If errors comes, refer **stackoverflow** or approach seniors(Contact details shared on ANDROID MNNIT fb page).
+    - [Link to apk files](https://drive.google.com/drive/folders/1rWxvwmTe21s6Si8S1OnkrXY7EiPQdWa_?usp=sharing_)
 
 - [Android life cycle demo using Toast and Log](FirstAndroidClass)
 
