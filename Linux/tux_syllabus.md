@@ -2,9 +2,9 @@
 
 ## Basics
 * What is Linux? Why Linux? Linux vs Windows
-* Linux Directory Hierarchy 
+* Linux Directory Hierarchy : [here](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
 * Commands like: pwd, ls, ls -a, ls -l, cd, mkdir, mkdir -p, who, w, whoami, rm, rm -r, mv, vi, cat, less, man, cp, history, echo (with options), find, locate, passwd.
-* pipe(|), redirection (> and <)
+* pipe(|), redirection (> and <) : [here at tldp](https://www.tldp.org/LDP/abs/html/io-redirection.html) { btw : tldp is an excellent resource :) }
 * Shell Scripting (special shell variables($?, $$), if/else, switch case, for, while)
 * sudo
 * File permissions
@@ -12,7 +12,7 @@
 * grep, cut, ssh, tr
 
 ## Main
-* Linux Booting Process (BIOS, MBR, grub, kernel, init, runlevels).
+* Linux Booting Process [here at slashroot.in](https://www.slashroot.in/linux-booting-process-step-step-tutorial-understanding-linux-boot-sequence).
 * System daemons 
 * Special files (.bashrc, /etc/shadow, /etc/passwd), passwd command
 * package manager pacman, yum, zypper, apt-get, yast
