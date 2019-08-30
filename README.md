@@ -32,6 +32,7 @@ Join our fb group for classes schedule and other details.
 ## Resources
 
 - Android 
+	- [Droidrush Common Resources](Android/)
 	- [Android class - 1](Android/2019_08_25-Android-Class-1)
 	- [Android class - 2](Android/2019_08_29-Android-Class-2)
 	
