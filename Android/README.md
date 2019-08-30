@@ -1,8 +1,9 @@
 # Android-MNNIT
 
 Refer this readme for important links related to DroidRush 2019
-## LeaRning Resources
+## Learning Resources
 
+- [TutorialsPoint](https://www.tutorialspoint.com/android/index.htm)
 - [developers android](https://developer.android.com/guide)
 
 - [vogella android](https://www.vogella.com/tutorials/android.html)
@@ -16,3 +17,4 @@ Refer this readme for important links related to DroidRush 2019
 ## Contributors
 
 * [Kartik Mahendru](https://github.com/kartikMahendru)
+* [Aniket Kumar](https://github.com/aniket468)
