@@ -18,7 +18,7 @@
 
 
 ### Event wise Registration Forms
-
+- [Insomnia 1st round](https://www.codechef.com/INQU2019)
 - [SoftaThalon (B.Tech 2nd and MCA 1st year)](https://forms.gle/feGf6rVRwPJAGRbQ9)
 - [SoftaThalon(B.Tech 3rd and MCA 2nd year)](https://forms.gle/bKEWB86hVyyJtZVN6)
 - [SoftaBlitz](https://forms.gle/2uBnAp3QMf9gDtqp9)
