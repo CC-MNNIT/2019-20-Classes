@@ -13,7 +13,7 @@ Some other resources:
 - [JavaTpoint](https://www.javatpoint.com/multithreading-in-java)
 - [GeekForGeeks](https://www.geeksforgeeks.org/multithreading-in-java/)
 
-[Class Room Codes]()
+[Class Room Codes](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/Java/2019_08_30_Java-Class-4/Code)
 
 
 ## Serialization
@@ -21,4 +21,4 @@ Some other resources:
 Serialization is a mechanism of converting the state of an object into a byte stream. 
 
 - [PPT](Serialization.pdf)
-- [Class Room Codes]()
+- [Class Room Codes](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/Java/2019_08_30_Java-Class-4/Code)
