@@ -1,4 +1,4 @@
-# Webster Class - 2 
+# Webster Class - 3
 ## Initial Setup Instructions
 
 - [Installing VS Code](https://code.visualstudio.com/)
