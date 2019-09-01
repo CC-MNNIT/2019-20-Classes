@@ -8,7 +8,7 @@ Proxy configuration for apt is written in the following file
 /etc/apt/apt.conf
 ```
 To configure apt proxy:
-*  Open terminal and open the above mentioned file iin any text-editor with _sudo _ . Eg.
+*  Open terminal and open the above mentioned file in any text-editor with _sudo_ . Eg.
 ```bash
 sudo gedit /etc/apt/apt.conf
 ```
@@ -33,6 +33,7 @@ pacman uses the terminal environment varialbles for proxy configurations.
 ```bash
 export http_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
 export https_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
+export ftp_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
 ```
 * The above lines set proxy variables for the terminal, so all programs that use the terminal environment variables for proxy configuration like `wget`, `curl` etc. will also use the above proxy settings.
 
@@ -45,6 +46,7 @@ export https_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
     ```bash
      export http_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
      export https_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
+     export ftp_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
      ```
 
 ### yum - default package manager for CentOS, RHEL etc.
@@ -64,6 +66,7 @@ proxy_password=edcguest
     ```bash
      export http_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
      export https_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
+     export ftp_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
      ```
 
 ### Configuring proxy on the terminal
@@ -71,12 +74,13 @@ To configure proxy on the terminal:
 ```bash
 export http_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
 export https_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
+export ftp_proxy="http://edcguest:edcguest@172.31.102.29:3128/"
 ```
-* To make this setting permanent add the above two lines in `~/.bashrc` file.
+* To make this setting permanent add the above lines in `~/.bashrc` file.
 
 ### Configuring git proxy
 To configure git proxy:
 ```
 git config --global http.proxy "http://edcguest:edcguest@172.31.102.29:3128/"
-git config --global http.proxy "http://edcguest:edcguest@172.31.102.29:3128/"
+git config --global https.proxy "http://edcguest:edcguest@172.31.102.29:3128/"
 ```

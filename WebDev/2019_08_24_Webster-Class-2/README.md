@@ -10,7 +10,7 @@
 
 ## Webster Class Codes
 
-- [Codes of Class 2](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/WebDev/2019_08_21_Webster-Class-2)
+- [Codes of Class 2](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/WebDev/2019_08_24_Webster-Class-2)
 
 
 ## Resources
