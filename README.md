@@ -31,14 +31,15 @@ Join our fb group for classes schedule and other details.
 
 ## Resources
 
-- Android 
+- Android
 	- [Droidrush Common Resources](Android/)
 	- [Android class - 1](Android/2019_08_25-Android-Class-1)
 	- [Android class - 2](Android/2019_08_29-Android-Class-2)
-	
+
 - Competitive Coding
   - [CP Class - 1 & 2](Competitive_Coding/2019_08_24_CP-Class-1&2)
   - [CP Class - 3](Competitive_Coding/2019_08_26_CP-Class-3)
+  - [CP Class - 4](Competitive_Coding/2019_09_01_CP-Class-4)
 
 - Java
 	- [SoftaBlitz Common Resources](Java/Softablitz)
@@ -51,11 +52,11 @@ Join our fb group for classes schedule and other details.
     - [Basic Details About Linux](Linux/basic_linux_guidelines.pdf)
     - [Guidelines for Proxy Configurations](Linux/basic_proxy_instructions.md)
     - [Topics to focus for Tuxwars](Linux/tux_syllabus.md)
-    
+
 - Machine Learning
     - [Class - 1](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/Machine%20Learning/22-08-2019_Class1)
     - [Class - 2](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/Machine%20Learning/27-08-2019_Class2)
-    
+
 - Placements
 	- [Guide to Placements](Placements)
 
