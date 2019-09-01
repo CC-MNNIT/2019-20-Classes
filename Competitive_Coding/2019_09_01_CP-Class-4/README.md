@@ -6,6 +6,8 @@
 
 * [Codechef CHEFPRMS - Chef and Semi-Primes](https://www.codechef.com/problems/CHEFPRMS)
 
+* [Spoj PRIME1 - Prime generator](https://www.spoj.com/problems/PRIME1/)
+
 * [Spoj DIV2 - Divisors 2](https://www.spoj.com/problems/DIV2/)
 
 * [Hackerearth - Ashu and prime factors](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/ashu-and-prime-factors-4/)
