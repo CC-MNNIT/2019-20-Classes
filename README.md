@@ -42,6 +42,7 @@ Join our fb group for classes schedule and other details.
 - Web Development
     - [Webster Class - 1](WebDev/2019_08_21_Webster-Class-1)
     - [Webster Class - 2](WebDev/2019_08_24_Webster-Class-2)
+    - [Webster Class - 3](WebDev/2019_08_29_Webster-Class-3)
 - Competitive Coding
   - [CP Class - 1 & 2](Competitive_Coding/2019_08_24_CP-Class-1&2)
 
