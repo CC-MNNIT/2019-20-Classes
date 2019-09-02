@@ -14,7 +14,7 @@
 
 ## Webster Class Codes
 
-- [Codes of Class 3](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/WebDev/2019_08_21_Webster-Class-3)
+- [Codes of Class 3](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/WebDev/2019_08_29_Webster-Class-3)
 
 
 ## Resources
