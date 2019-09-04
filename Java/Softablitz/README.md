@@ -36,6 +36,7 @@ List of some useful Java Swing and FX resources to begin with -
 ## Announcements
 
 - [Problem Statements](Softablitz Problem Statements 2k19.pdf) have been released !!!
+- [Abstract Submissions have begun](https://forms.gle/defwVko9NCTVtNDt6)
 
 ## Coordinators
 
