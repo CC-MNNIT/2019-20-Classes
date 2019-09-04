@@ -47,6 +47,7 @@ Join our fb group for classes schedule and other details.
     - [Java Class - 2](Java/2019_08_23_Java-Class-2)
     - [Java Class - 3](Java/2019_08_28_Java-Class-3)
     - [Java Class - 4](Java/2019_08_30_Java-Class-4)
+    - [Java Class - 5](Java/2019_09_03_Java-Class-5)
 
 - Linux & Networking
     - [Basic Details About Linux](Linux/basic_linux_guidelines.pdf)
