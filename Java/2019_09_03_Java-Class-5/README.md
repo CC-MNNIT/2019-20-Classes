@@ -12,7 +12,7 @@
 <div align="center"><img src="Stages_of_Network_Socket.jpg" height="700" width="400"/></div>
 
 The following is the code for a basic server.
-```
+```java
 import java.net.*;
 import java.io.*;
 
@@ -43,18 +43,13 @@ public class Server{
                 e.printStackTrace();
                 System.out.println("Failed to connect to client..!!");
             }
-
         }
-
-        
-
     }
-
 }
 ```
 
 The following is the code for Client which can connect to the server.
-```
+``` java
 import java.io.*;
 import java.net.*;
 import java.util.Scanner;
@@ -92,16 +87,13 @@ public class Client{
             e.printStackTrace();
             System.out.println("Cannot connect to server...!!");
         }
-
-
-
     }
 
 }
 ```
 
 The following code is the code for ClientHandler
-```
+``` java
 import java.io.*;
 import java.net.*;
 
@@ -113,8 +105,6 @@ public class ClientHandler implements Runnable{
     ClientHandler(Socket sock){
         this.sock = sock;
     }
-
-
 
     public void run(){
 
@@ -129,11 +119,6 @@ public class ClientHandler implements Runnable{
             e.printStackTrace();
             System.out.println("Some error occured");
         }
-        
-        
-
-
-
     }
 
 }
