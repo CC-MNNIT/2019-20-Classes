@@ -9,7 +9,7 @@
 - [Socket Programming: GeeksForGeeks](https://www.geeksforgeeks.org/socket-programming-in-java/)
 
 
-<div align="center"><img src="Stages_of_Network_Socket.jpg" height="200" width="250"/></div>
+<div align="center"><img src="Stages_of_Network_Socket.jpg" height="700" width="400"/></div>
 
 The following is the code for a basic server.
 '''java
