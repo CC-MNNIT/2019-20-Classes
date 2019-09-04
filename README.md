@@ -72,6 +72,8 @@ Join our fb group for classes schedule and other details.
 
 ## Announcements
 
+- [Abstract Submission - SoftaBlitz](https://forms.gle/defwVko9NCTVtNDt6)
+- [Abstract Submission - DroidRush](https://docs.google.com/forms/d/e/1FAIpQLSeEQa_SMhcKIurQtxr8g8RFY2TGwPbklbYSiq3T1MmXYQl0KA/viewform)
 
 
 ## Contribute
