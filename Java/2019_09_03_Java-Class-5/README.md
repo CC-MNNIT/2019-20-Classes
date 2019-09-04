@@ -12,7 +12,7 @@
 <div align="center"><img src="Stages_of_Network_Socket.jpg" height="700" width="400"/></div>
 
 The following is the code for a basic server.
-'''
+```
 import java.net.*;
 import java.io.*;
 
@@ -51,10 +51,10 @@ public class Server{
     }
 
 }
-'''
+```
 
 The following is the code for Client which can connect to the server.
-'''
+```
 import java.io.*;
 import java.net.*;
 import java.util.Scanner;
@@ -98,10 +98,10 @@ public class Client{
     }
 
 }
-'''
+```
 
 The following code is the code for ClientHandler
-'''
+```
 import java.io.*;
 import java.net.*;
 
@@ -137,7 +137,7 @@ public class ClientHandler implements Runnable{
     }
 
 }
-'''
+```
 
 ### Code
 
