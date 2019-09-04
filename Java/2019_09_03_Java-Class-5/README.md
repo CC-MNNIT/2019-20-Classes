@@ -126,5 +126,7 @@ public class ClientHandler implements Runnable{
 
 ### Code
 
-- [Simple Client-Server Communication]()
-- [Client-Server Pair communicating objects]()
+- [Simple Client-Server Communication](https://github.com/Abhishek1103/2019-20-Classes/tree/master/Java/2019_09_03_Java-Class-5/Codes/SimpleClient-ServerComm)
+- [Client-Server Pair communicating objects](https://github.com/Abhishek1103/2019-20-Classes/tree/master/Java/2019_09_03_Java-Class-5/Codes/ChatSystem)
+
+For any queries, feel free to contact us.
