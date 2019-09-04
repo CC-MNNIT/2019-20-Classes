@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="20dp"
+    android:layout_height="match_parent"
+    tools:context=".EmployeeDetail">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="104dp"
+            android:text="Name : "
+            android:textSize="20dp"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:id="@+id/name"
+            android:layout_margin="8dp"
+            android:layout_centerInParent="true"
+            android:gravity="center"/>
+    </LinearLayout>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:orientation="horizontal"
+       android:layout_height="wrap_content">
+
+       <TextView
+           android:layout_width="104dp"
+           android:textSize="20dp"
+           android:text="Age : "
+           android:layout_height="wrap_content"/>
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textSize="20dp"
+           android:id="@+id/age"
+           android:layout_below="@id/name"
+           android:layout_margin="8dp"
+           android:gravity="center"/>
+   </LinearLayout>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:orientation="horizontal"
+       android:layout_height="wrap_content">
+       <TextView
+           android:layout_width="104dp"
+           android:text="Mobile No : "
+           android:textSize="20dp"
+           android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/number"
+        android:layout_height="wrap_content"/>
+   </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="104dp"
+            android:textSize="20dp"
+            android:text="State : "
+            android:layout_height="wrap_content">
+        </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/state"
+        android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="104dp"
+            android:text="Country : "
+            android:textSize="20dp"
+            android:layout_height="wrap_content">
+        </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/country"
+        android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/getbt"
+        android:text="GET"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:layout_below="@id/age"
+        android:layout_margin="8dp"/>
+
+</LinearLayout>
