@@ -8,4 +8,4 @@
 
 ### Slides
 
-Click [here](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/Linux/TuxWars2k19_class1.pdf) to download the slides for this class.
+Click [here](TuxWars2k19_class1.pdf) to download the slides for this class.
