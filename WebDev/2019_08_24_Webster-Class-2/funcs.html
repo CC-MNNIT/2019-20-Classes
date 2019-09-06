@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JavaScript Demo</title>
+	<script type="text/javascript">
+
+		//Normal function definitions
+
+
+		// function mul(a,b) {
+		// 	return a*b;
+		// }
+		// document.write(mul(6,7)+ "<br>");
+
+
+		// Call by value
+
+
+		// function inc(curr) {
+		// 	curr++;
+		// }
+		// var x = 4;
+		// document.write(x + "<br>");
+		// inc(x);
+		// document.write(x + "<br>");
+
+
+		// Call by reference
+
+
+		// function incobj(curr) {
+		// 	curr.value++;
+		// }
+
+		// var y = {value: 5};
+		// document.write(y.value + "<br>");
+		// incobj(y);
+		// document.write(y.value + "<br>");
+
+
+		//storing functions in variables
+		//function is a datatype in JS
+
+		var x = function(a,b) {return a+b;};
+		var y = (a,b) => (a+b);
+
+
+		//self invoking functions
+
+
+		// (function (x) {document.write(x*x + "<br>");} )(9);
+		
+
+		//objects ---> almost everything is an object in JS
+
+
+		// var person = {firstName:"Vaibhav", lastName:"Raizu", age:69, eyeColor:"pink"}
+		// var x = person;
+		// x.age = 10;
+		// document.write(x.age + "<br>");
+		// document.write(person.age + "<br>");
+
+		// person.height = 70;
+		// document.write(person.height + "<br>")
+		// delete person.height;
+		// document.write(person.height + "<br>")
+
+		// document.write("<br>");
+
+
+		//properties of objects
+
+
+		//there are two ways to access properties
+		// 		1) obj[property] 
+		// 		2) obj.property
+
+
+		// var person = {firstName:"Bhadage", lastName:"Ankit", age:22 , eyeColor:"red"}
+		// for(prop in person) {
+		// 	document.write(prop +" ===> " + person[prop] + "<br>")
+		// }
+		// document.write("<br>");
+
+
+		//functions as properties
+
+
+		// var obj = {
+		// 	val: 1,
+		// 	inc: function() {this.val++;}
+		// }
+		// document.write(obj.val + "<br>");
+		// obj.inc();
+		// document.write(obj.val + "<br>");
+
+	</script>
+</head>
+<body>
+
+
+
+</body>
+</html>
