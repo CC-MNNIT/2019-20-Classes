@@ -53,6 +53,7 @@ Join our fb group for classes schedule and other details.
     - [Basic Details About Linux](Linux/basic_linux_guidelines.pdf)
     - [Guidelines for Proxy Configurations](Linux/basic_proxy_instructions.md)
     - [Topics to focus for Tuxwars](Linux/tux_syllabus.md)
+    - [Tuxwars class - 1](Linux/2019_09_06_TuxWars-Class-1)
 
 - Machine Learning
     - [Class - 1](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/Machine%20Learning/22-08-2019_Class1)
@@ -65,8 +66,6 @@ Join our fb group for classes schedule and other details.
     - [Webster Class - 1](WebDev/2019_08_21_Webster-Class-1)
     - [Webster Class - 2](WebDev/2019_08_24_Webster-Class-2)
     - [Webster Class - 3](WebDev/2019_08_29_Webster-Class-3)
-- Competitive Coding
-  - [CP Class - 1 & 2](Competitive_Coding/2019_08_24_CP-Class-1&2)
 
 - [Avishkar](Avishkar/README.md)
 
