@@ -10,7 +10,7 @@
 # Resources
 ### Fragments
 - [Creating Fragments](	https://developer.android.com/training/basics/fragments/creating)
-- [Fragments Example](FragmnetsExample)
+- [Fragments Example](FragmentsExample)
 - [View Pager tutorial](https://www.codingdemos.com/android-tablayout-example-viewpager/)
 - [View Pager Example](ViewPagerExample)
 ### Async Task
