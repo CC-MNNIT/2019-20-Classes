@@ -1,11 +1,11 @@
 # CLASS 4
 - Fragments
 - Async Task
-<!-- <p align="left">
+<p align="left">
   <img src="/chats.png" width="100" />
   <img src="/status.png" width="100" /> 
   <img src="/calls.png" width="100" />
-</p> -->
+</p> 
 
 # Resources
 ### Fragments
