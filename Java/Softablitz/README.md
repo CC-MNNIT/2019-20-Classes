@@ -36,6 +36,9 @@ List of some useful Java Swing and FX resources to begin with -
 ## Announcements
 
 - [Problem Statements](Softablitz Problem Statements 2k19.pdf) have been released !!!
+- [Abstract Submissions have begun](https://forms.gle/defwVko9NCTVtNDt6)
+
+- [Problem Statements for 1st Year](Softablitz First Year Statements 2k19.pdf) have been released !!!
 
 ## Coordinators
 
@@ -44,6 +47,7 @@ For any doubt related to this event feel free to contact Coordinators.
 * [Abhishek Kumar Singh](https://github.com/Abhishek1103)
 * [Surbhit Awasthi](https://github.com/surbhitawasthi)
 * [Shreyas Dobhal](https://github.com/ShreyasDobhal)
+* [Ashish Gopal Hattimare](https://github.com/ashishgopalhattimare)
 
 ## Contributing
 
