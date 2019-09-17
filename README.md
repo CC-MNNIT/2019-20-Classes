@@ -41,7 +41,7 @@ Join our fb group for classes schedule and other details.
   - [CP Class - 3](Competitive_Coding/2019_08_26_CP-Class-3)
   - [CP Class - 4](Competitive_Coding/2019_09_01_CP-Class-4)
   - [CP Class - 5](Competitive_Coding/2019_09_10_CP-Class-5)
-  - [CP Class - 6](Competitive_Coding/2019_09_10_CP-Class-6)
+  - [CP Class - 6](Competitive_Coding/2019_09_12_CP-Class-6)
 
 - Java
 	- [SoftaBlitz Common Resources](Java/Softablitz)
