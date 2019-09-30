@@ -51,6 +51,7 @@ Join our fb group for classes schedule and other details.
     - [Java Class - 4](Java/2019_08_30_Java-Class-4)
     - [Java Class - 5](Java/2019_09_03_Java-Class-5)
     - [Java Class - 6](Java/2019_09_07_Java-Class-6)
+    - [SoftaBltz Problem Statements](Java/Problem-Statements.md)
 
 - Linux & Networking
     - [Basic Details About Linux](Linux/basic_linux_guidelines.pdf)
