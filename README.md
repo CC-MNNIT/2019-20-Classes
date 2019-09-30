@@ -40,6 +40,8 @@ Join our fb group for classes schedule and other details.
   - [CP Class - 1 & 2](Competitive_Coding/2019_08_24_CP-Class-1&2)
   - [CP Class - 3](Competitive_Coding/2019_08_26_CP-Class-3)
   - [CP Class - 4](Competitive_Coding/2019_09_01_CP-Class-4)
+  - [CP Class - 5](Competitive_Coding/2019_09_10_CP-Class-5)
+  - [CP Class - 6](Competitive_Coding/2019_09_12_CP-Class-6)
 
 - Java
 	- [SoftaBlitz Common Resources](Java/Softablitz)
@@ -47,11 +49,14 @@ Join our fb group for classes schedule and other details.
     - [Java Class - 2](Java/2019_08_23_Java-Class-2)
     - [Java Class - 3](Java/2019_08_28_Java-Class-3)
     - [Java Class - 4](Java/2019_08_30_Java-Class-4)
+    - [Java Class - 5](Java/2019_09_03_Java-Class-5)
+    - [Java Class - 6](Java/2019_09_07_Java-Class-6)
 
 - Linux & Networking
     - [Basic Details About Linux](Linux/basic_linux_guidelines.pdf)
     - [Guidelines for Proxy Configurations](Linux/basic_proxy_instructions.md)
     - [Topics to focus for Tuxwars](Linux/tux_syllabus.md)
+    - [Tuxwars class - 1](Linux/2019_09_06_TuxWars-Class-1)
 
 - Machine Learning
     - [Class - 1](https://github.com/CC-MNNIT/2019-20-Classes/tree/master/Machine%20Learning/22-08-2019_Class1)
@@ -65,13 +70,13 @@ Join our fb group for classes schedule and other details.
     - [Webster Class - 2](WebDev/2019_08_24_Webster-Class-2)
     - [Webster Class - 3](WebDev/2019_08_29_Webster-Class-3)
     - [Webster Class - 4](WebDev/2019_09_02_Webster-Class-4)
-- Competitive Coding
-  - [CP Class - 1 & 2](Competitive_Coding/2019_08_24_CP-Class-1&2)
-
+    
 - [Avishkar](Avishkar/README.md)
 
 ## Announcements
 
+- [Abstract Submission - SoftaBlitz](https://forms.gle/defwVko9NCTVtNDt6)
+- [Abstract Submission - DroidRush](https://docs.google.com/forms/d/e/1FAIpQLSeEQa_SMhcKIurQtxr8g8RFY2TGwPbklbYSiq3T1MmXYQl0KA/viewform)
 
 
 ## Contribute
