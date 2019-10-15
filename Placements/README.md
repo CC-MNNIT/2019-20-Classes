@@ -34,11 +34,16 @@
 - [Geeks Quiz](https://www.geeksforgeeks.org/category/quizzes-gq/computer-science-quizzes-gq/cpp-gq/)
 - [OOP in C++](https://www.tutorialspoint.com/cplusplus/cpp_object_oriented.htm)
 
+#### Java
+- [Java Documentation](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/toc.html)
+- [javatpoint](https://www.javatpoint.com/java-tutorial)
+
 ## Contributors
 
 Add yourself to contributors list as you contribute in present format.
 
 * [Mohit Khare](https://github.com/mkfeuhrer)
+* [Surbhit Awasthi](https://github.com/surbhitawasthi)
 
 ## Contributing
 
