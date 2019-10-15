@@ -26,6 +26,11 @@
   * [Codemonk](https://www.hackerearth.com/practice/codemonk/) - Topicwise problems
   * [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/) - Awesome place to learn
 
+ #### Tutorials for Networking
+ * [YouTube playlist - Shivam Singh Sir](https://www.youtube.com/playlist?list=PLyRxBafKYiWDsWpByomYFty3J8Rfycu-L)
+ * [Networking tutorials - Bukky Roberts](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
+ 
+
 ## Language Specific
 
 #### C++
