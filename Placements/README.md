@@ -30,6 +30,12 @@
  * [YouTube playlist - Shivam Singh Sir](https://www.youtube.com/playlist?list=PLyRxBafKYiWDsWpByomYFty3J8Rfycu-L)
  * [Networking tutorials - Bukky Roberts](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
  
+ #### Tutorials for Operating System
+ * [Youtube playlist - Shivam Singh Sir](https://www.youtube.com/playlist?list=PLyRxBafKYiWDHOiOsjz7pEqdEYwHIx-az)
+ * [Knowledge Gate](https://www.youtube.com/watch?v=YwqexcfbucE&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
+
+ #### Tutorials for Computer Organization
+ * [Computer Orgazinization Course - Bilkent University](https://www.youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu)
 
 ## Language Specific
 
