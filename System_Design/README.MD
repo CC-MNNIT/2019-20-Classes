@@ -10,4 +10,11 @@ System design is the process of designing the elements of a system such as the a
 * Caching
 * Redundancy and Replication
 
+### Designing a System? Remember these
+* Networking both within processes and among different systems.
+* Analysis of Concurrency.
+* Virtualization and Performance
+* Reliability of the System
+* Confidentiality, Integrity and Availablity
+
 > This file is still work in progress. Content to be added.
