@@ -51,6 +51,7 @@ Join our fb group for classes schedule and other details.
     - [Java Class - 4](Java/2019_08_30_Java-Class-4)
     - [Java Class - 5](Java/2019_09_03_Java-Class-5)
     - [Java Class - 6](Java/2019_09_07_Java-Class-6)
+    - [SoftaBltz Problem Statements](Java/Problem-Statements.md)
 
 - Linux & Networking
     - [Basic Details About Linux](Linux/basic_linux_guidelines.pdf)
@@ -69,13 +70,15 @@ Join our fb group for classes schedule and other details.
     - [Webster Class - 1](WebDev/2019_08_21_Webster-Class-1)
     - [Webster Class - 2](WebDev/2019_08_24_Webster-Class-2)
     - [Webster Class - 3](WebDev/2019_08_29_Webster-Class-3)
-
+    - [Webster Class - 4](WebDev/2019_09_02_Webster-Class-4)
+    - [Webster Problem Statements](WebDev/Webster-Problem-Statements)
 - [Avishkar](Avishkar/README.md)
 
 ## Announcements
 
 - [Abstract Submission - SoftaBlitz](https://forms.gle/defwVko9NCTVtNDt6)
 - [Abstract Submission - DroidRush](https://docs.google.com/forms/d/e/1FAIpQLSeEQa_SMhcKIurQtxr8g8RFY2TGwPbklbYSiq3T1MmXYQl0KA/viewform)
+- [Abstract Submission - Webster](https://www.hackerearth.com/challenges/college/webster-2019-abstract/)
 
 
 ## Contribute
