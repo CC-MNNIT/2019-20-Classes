@@ -9,6 +9,11 @@ int main()
 	cout<<x<<endl;
 }
 
+// g++ file.cpp       //To compile
+                      //file.cpp is the name of your program
+
+// ./a.out            //To run
+
 //Program to add 2 numbers
 
 #include<bits/stdc++.h>
@@ -166,8 +171,5 @@ For example
    n*log(n) operations is acceptable
    n^2 will give you TLE
 
-// Problems to practice 
+   
 
-https://www.codechef.com/problems/TEST
-https://www.spoj.com/problems/ADUN/
-https://www.hackerearth.com/practice/codemonk/
