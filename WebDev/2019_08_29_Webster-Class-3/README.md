@@ -19,7 +19,7 @@
 
 ## Resources
 
-- [PHP Reference](https://www.w3schools.com/php/default.asp): One of the best References of HTML for beginners.
+- [PHP Reference](https://www.w3schools.com/php/default.asp): One of the best References of PHP for beginners.
 
 - [PHP official docs](https://www.php.net/manual/en/index.php): PHP official docs
 
