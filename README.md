@@ -37,6 +37,7 @@ Join our fb group for classes schedule and other details.
 	- [Android class - 2](Android/2019_08_29-Android-Class-2)
 
 - Competitive Coding
+  - [Competitve programming basics](Competitive_Coding/2019_11_05_CP-Class-Competitive-programming-basics)
   - [CP Class - 1 & 2(STL)](Competitive_Coding/2019_08_24_CP-Class-STL)
   - [CP Class - Number theory(Part-1)](Competitive_Coding/2019_08_26_CP-Class-Number-Theory-basic-second-year)
   - [CP Class - Number theory(Part-2)](Competitive_Coding/2019_09_01_CP-Class-Number-Theory-Second-Year)

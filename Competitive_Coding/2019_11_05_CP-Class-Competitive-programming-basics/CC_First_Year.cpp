@@ -1,12 +1,15 @@
 //Simple C++ program
-
+/*
+	Competitive programming basics
+*/
 #include<bits/stdc++.h>
 using namespace std;
 int main()
 {
 	int x;
-	cin>>x;
-	cout<<x<<endl;
+	cin >> x;
+	cout << x << endl;
+	return 0;
 }
 
 // g++ file.cpp       //To compile
