@@ -37,13 +37,14 @@ Join our fb group for classes schedule and other details.
 	- [Android class - 2](Android/2019_08_29-Android-Class-2)
 
 - Competitive Coding
-  - [CP Class - 1 & 2](Competitive_Coding/2019_08_24_CP-Class-1&2)
-  - [CP Class - 3](Competitive_Coding/2019_08_26_CP-Class-3)
-  - [CP Class - 4](Competitive_Coding/2019_09_01_CP-Class-4)
-  - [CP Class - 5](Competitive_Coding/2019_09_10_CP-Class-5)
-  - [CP Class - 6](Competitive_Coding/2019_09_12_CP-Class-6)
-  - [CP Class - 9 & 10](Competitive_Coding/2020_01_16_CP-Class-10)
+  - [CP Class - 1 & 2(STL)](Competitive_Coding/2019_08_24_CP-Class-STL)
+  - [CP Class - Number theory(Part-1)](Competitive_Coding/2019_08_26_CP-Class-Number-Theory-basic-second-year)
+  - [CP Class - Number theory(Part-2)](Competitive_Coding/2019_09_01_CP-Class-Number-Theory-Second-Year)
+  - [CP Class - Binary Search](Competitive_Coding/2019_09_10_CP-Class-binary-search)
+  - [CP Class - Dynamic Programming](Competitive_Coding/2019_09_12_CP-Class-Dynamic-Programming)
+  - [CP Class - Graph Algorithms](Competitive_Coding/2020_01_16_CP-Class-Graph-Algos)
   - [CP Class - Number theory(first year)](Competitive_Coding/2020_01_19_Number-Theory-First-Year)
+  - [CP Class - DP on trees & String hashing](Competitive_Coding/2019_01_22_CP-Class-String-hashing_&_DP-on-trees)
 
 - Java
 	- [SoftaBlitz Common Resources](Java/Softablitz)
