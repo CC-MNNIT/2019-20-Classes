@@ -5,3 +5,5 @@
 * [Codechef tutorial](https://www.codechef.com/wiki/tutorial-dynamic-programming)
 * [Previos Year CC Class Ques](https://docs.google.com/document/d/1kCgwiOtTNrjGjgIMj6dYwl13EQABOSM_4l2ENFbybtU/edit?usp=sharing)
 
+## Practice Problems
+* [Educational DP contest(Atcoder)](https://atcoder.jp/contests/dp/tasks)
