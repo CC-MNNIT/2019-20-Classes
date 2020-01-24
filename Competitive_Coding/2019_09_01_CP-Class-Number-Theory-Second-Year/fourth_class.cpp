@@ -3,7 +3,6 @@ using namespace std;
 
 vector<int> primes;
 
-
 // seive of eratosthenes, time complexity - O(nloglogn)
 void sieve() {
     int n;

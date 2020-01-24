@@ -3,7 +3,6 @@ using namespace std;
 
 #define ll long long
 
-
 // this function will test whether n is prime or not, time complexity - O(sqrt(n))
 bool primeTest(int n) {
     int sq = sqrt(n);

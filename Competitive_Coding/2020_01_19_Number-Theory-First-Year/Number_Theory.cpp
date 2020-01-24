@@ -3,6 +3,7 @@ using namespace std;
 
 #define ll long long
 
+
 // Divisors of a number
 vector<int> divs;
 void solve(int x) {

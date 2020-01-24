@@ -4,7 +4,6 @@
     3. some problems on binary search
 */
 
-
 long long fact[N], invfact[N];
 const long long MOD = 1e9 + 7;
 long long power(long long a, long long b, long long m)

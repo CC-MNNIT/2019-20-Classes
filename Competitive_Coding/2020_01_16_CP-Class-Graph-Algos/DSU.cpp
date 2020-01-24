@@ -2,7 +2,6 @@
 using namespace std;
 
 const int N;
-
 int findParent(int i) {
     if(par[i] != i)
         return par[i] = findParent(par[i]);
